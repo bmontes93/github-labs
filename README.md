@@ -6,3 +6,5 @@ Open source developer playground &amp; experimentation lab
 - Experiment 2 automated execution
 
 - Experiment 5 automated execution
+
+- Experiment 6 automated execution
